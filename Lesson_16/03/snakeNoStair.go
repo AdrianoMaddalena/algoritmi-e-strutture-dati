@@ -141,4 +141,5 @@ func getStartingSquare (board []int) int {
 		}
 	}
 	return startingSquare
+	
 }
